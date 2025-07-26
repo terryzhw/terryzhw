@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Languages and Frameworks 🛠️
 
 <p align="center">
   <a href="https://www.python.org"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"         alt="Python"      width="40" height="40"/></a>
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Stats 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=terryzhw&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
