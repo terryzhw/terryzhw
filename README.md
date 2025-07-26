@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**terryzhw/terryzhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello👋, I’m Terrance!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/<username>">
+    <img src="https://komarev.com/ghpvc/?username=<username>&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://instagram.com/terrancezhw/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/terryzhw/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech & Tools
+
+<p align="center">
+  <a href="https://www.python.org"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"         alt="Python"      width="40" height="40"/></a>
+  <a href="https://www.javascript.com"   target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"  width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org"          target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"             alt="React"       width="40" height="40"/></a>
+  <a href="https://nodejs.org"           target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"           alt="Node.js"     width="40" height="40"/></a>
+  <a href="https://www.docker.com"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"           alt="Docker"      width="40" height="40"/></a>
+  <a href="https://git-scm.com"          target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"                 alt="Git"         width="40" height="40"/></a>
+  <a href="https://github.com"           target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"         alt="GitHub"      width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=<username>&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
