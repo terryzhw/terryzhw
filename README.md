@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I’m Terrance!</h1>
 
-## 📫 Connect with me 📫
+## Connect with me 
 
 <p align="center">
   <a href="https://instagram.com/terrancezhw/" target="_blank" rel="noopener">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Languages and Frameworks 🛠️
+## Languages and Frameworks
 
 <p align="center">
   <a href="https://www.python.org"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"         alt="Python"      width="40" height="40"/></a>
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 My Stats 📊
+## My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=terryzhw&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
