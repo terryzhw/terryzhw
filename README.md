@@ -31,6 +31,5 @@
 ## My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terryzhw&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terryzhw&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
